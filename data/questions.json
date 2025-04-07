@@ -1,0 +1,38 @@
+[
+    {
+        "q_id": 1,
+        "text": "What is the capital of France?",
+        "answer": "Paris",
+        "q_type": "quiz",
+        "enabled": true,
+        "times_shown": 3,
+        "times_correct": 2
+    },
+    {
+        "q_id": 2,
+        "text": "Solve: 5 + 7",
+        "answer": "12",
+        "q_type": "freeform",
+        "enabled": true,
+        "times_shown": 5,
+        "times_correct": 5
+    },
+    {
+        "q_id": 99,
+        "text": "Database test?",
+        "answer": "Yes",
+        "q_type": "quiz",
+        "enabled": true,
+        "times_shown": 0,
+        "times_correct": 0
+    },
+    {
+        "q_id": 99,
+        "text": "Database test?",
+        "answer": "Yes",
+        "q_type": "quiz",
+        "enabled": true,
+        "times_shown": 0,
+        "times_correct": 0
+    }
+]
